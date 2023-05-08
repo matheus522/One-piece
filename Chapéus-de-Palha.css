@@ -1,0 +1,537 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/Monkey-D.-Luffy-membros1024x683.jpg");
+  background-position: 0% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1102px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 87px 446px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 909px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: 396px;
+    margin-left: -50px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 696px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 286px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 522px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 196px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 30.26% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 570px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: -50px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/zoro-membros.jpg");
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1016px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 117px 0 60px 570px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-2 {
+    background-position: 37.39% 50%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 838px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin: 290px -46px 1px 516px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 978px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 288px;
+    margin-bottom: 3px;
+    margin-left: 406px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 734px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 316px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    background-position: 18.3% 50%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 741px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin: 146px -50px 60px;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/Nami-membros.jpg");
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 959px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 87px 570px 60px 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    background-position: 13.28% 50%;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 791px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 606px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 350px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 455px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 170px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-3 {
+    background-position: 61.43% 50%;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 286px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 0;
+  }
+} .u-section-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/usopp-membro.jpg");
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 1019px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 80px 0 60px 446px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 840px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: auto;
+    margin-right: -50px;
+    margin-left: 396px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 643px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 286px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 482px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 196px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 303px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+} .u-section-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/Sanji.jpg");
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 194px 0 60px 570px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-5 {
+    background-position: 35.12% 50%;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-left: 470px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-5 {
+    background-position: 29.67% 50%;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: auto;
+    margin: 694px -50px 0 300px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-5 {
+    background-position: 21.72% 50%;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: 679px;
+    margin-left: 260px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-5 {
+    background-position: 17.21% 50%;
+  }
+
+  .u-section-5 .u-sheet-1 {
+    min-height: 1083px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: 569px;
+    margin-right: 170px;
+    margin-left: -50px;
+  }
+} .u-section-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/chopper-membro1.jpg");
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 1016px;
+}
+
+.u-section-6 .u-text-1 {
+  margin: 414px 570px 60px 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-6 {
+    background-position: 43.62% 62.51%;
+  }
+
+  .u-section-6 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-6 .u-text-1 {
+    width: auto;
+    margin-top: 257px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-6 {
+    background-position: 35.83% 91.37%;
+  }
+
+  .u-section-6 .u-sheet-1 {
+    min-height: 843px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-right: 350px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-6 {
+    background-size: auto 120%;
+  }
+
+  .u-section-6 .u-sheet-1 {
+    min-height: 631px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: 159px;
+    margin-right: 170px;
+    margin-bottom: 59px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-6 {
+    background-position: 48.02% 100%;
+  }
+
+  .u-section-6 .u-sheet-1 {
+    min-height: 668px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: 218px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+} .u-section-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/nico_robin.jpg");
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 657px;
+}
+
+.u-section-7 .u-text-1 {
+  margin: 259px 570px 0 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-7 {
+    background-position: 50% 100%;
+  }
+
+  .u-section-7 .u-sheet-1 {
+    min-height: 542px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 415px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-right: 350px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 311px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-right: 170px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 196px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-right: 0;
+  }
+} .u-section-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/Franky.jpg");
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 875px;
+}
+
+.u-section-8 .u-text-1 {
+  margin: 252px 0 60px 739px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-8 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-8 .u-sheet-1 {
+    min-height: 721px;
+  }
+
+  .u-section-8 .u-text-1 {
+    margin-left: 639px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 552px;
+  }
+
+  .u-section-8 .u-text-1 {
+    margin-left: 419px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 414px;
+  }
+
+  .u-section-8 .u-text-1 {
+    margin-left: 239px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 261px;
+  }
+
+  .u-section-8 .u-text-1 {
+    margin-left: 39px;
+  }
+} .u-section-9 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/brook-one-piece.jpg");
+}
+
+.u-section-9 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-9 .u-text-1 {
+  margin: 329px 570px 46px 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-9 {
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-9 .u-text-1 {
+    margin-right: 350px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-text-1 {
+    margin-right: 170px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-text-1 {
+    margin-right: 0;
+  }
+} .u-section-10 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/jinbe-1.jpg");
+}
+
+.u-section-10 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-10 .u-text-1 {
+  margin: 0 693px 60px 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-10 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-10 .u-text-1 {
+    margin-top: 60px;
+    margin-right: 493px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-10 .u-text-1 {
+    margin-right: 273px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-text-1 {
+    margin-right: 93px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-text-1 {
+    margin-right: 0;
+  }
+}
